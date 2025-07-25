@@ -1,4 +1,4 @@
-# Exercício EBAC - Automação com Grunt e Git
+# Exercício EBAC - Automação com Grunt
 
 Este projeto é um exercício prático proposto pela EBAC para demonstrar a automação de tarefas de desenvolvimento front-end utilizando **Grunt.js**.
 
