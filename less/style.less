@@ -1,0 +1,24 @@
+@cor-principal: #3498db;
+@font-size-base: 16px;
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: @font-size-base;
+  color: #333;
+}
+
+h1 {
+  color: @cor-principal;
+  text-align: center;
+}
+
+.button {
+  background-color: @cor-principal;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  &:hover {
+    background-color: darken(@cor-principal, 10%);
+  }
+}
